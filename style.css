@@ -42,3 +42,23 @@ h3 {
     color: #6BDD73;
 }
 
+/*REGOLE MAIN*/
+
+#container-game, 
+#numeri-ricordati {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.numeri {
+    background-color: #6BDD73;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    font-size: 40px;
+}
+
+.hidden {
+    display: none;
+}
