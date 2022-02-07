@@ -28,7 +28,7 @@ header {
 h1 {
     color: #fff;
     font-size: 70px;
-    background-color: #6BDD73;
+    background-color: #4472c7;
     padding: 20px;
     border-radius: 20px;
 }
@@ -39,7 +39,7 @@ h3 {
 }
 
 .alert-secondi-tot {
-    color: #6BDD73;
+    color: #4472c7;
 }
 
 /*REGOLE MAIN*/
@@ -51,7 +51,7 @@ h3 {
 }
 
 .numeri {
-    background-color: #6BDD73;
+    background-color: #4472c7;
     color: #fff;
     border-radius: 10px;
     padding: 10px;
